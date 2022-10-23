@@ -20,5 +20,5 @@
 rm -rf ./tmp 
 # sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 # sed -i '$a src-git small https://github.com/kenzok8/small' feeds.conf.default
-git clone https://github.com/EOYOHOO/UA2F.git package/UA2F
-git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
+# git clone https://github.com/EOYOHOO/UA2F.git package/UA2F
+# git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
